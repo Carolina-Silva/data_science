@@ -4,7 +4,7 @@ A Ciência de Dados é uma área que combina conhecimentos de estatística, mate
 
 Segundo a IBM, a ciência de dados é uma prática que busca resolver problemas complexos e encontrar insights acionáveis para negócios através da análise de dados avançada, a qual combina técnicas de matemática, estatística, programação, inteligência artificial (IA) e aprendizado de máquina.
 
-<!-- ![Matriz](../images/matriz.png) -->
+![O que é?](./imagens/oquee.png)
 
 ## Ciclo de Vida da Ciência de Dados
 O processo de ciência de dados geralmente segue estas etapas:
@@ -18,6 +18,8 @@ O processo de ciência de dados geralmente segue estas etapas:
 - **Modelagem**: Aplicar algoritmos de aprendizado de máquina para fazer previsões ou classificações.
 
 - **Comunicação dos Resultados**: Apresentar os insights de forma clara, usando visualizações e relatórios, para auxiliar na tomada de decisões.
+
+![O que é?](./imagens/ciclo.png)
 
 ## O Papel do Cientista de Dados
 O Cientista de Dados é o profissional que conduz esse processo. Suas responsabilidades incluem: Entender o problema de negócio e formular perguntas relevantes, coletar e preparar os dados para análise, aplicar técnicas estatísticas e de aprendizado de máquina, interpretar os resultados e comunicar os insights de forma clara.
