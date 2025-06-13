@@ -7,7 +7,7 @@ It works with almost all markdown flavours (the below blank line matters).
 
 --- -->
 
-> Nesse repositório estou compartilhando minhas anotações que faço durante minhas aulas do MBA em Data Science e Analytics pela USP/ESALQ
+> Nesse repositório estou compartilhando anotações que faço em minhas aulas do MBA em Data Science e Analytics
 
 
 
