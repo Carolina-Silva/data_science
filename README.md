@@ -1,8 +1,20 @@
 # Introdução à Ciência de Dados
 
+<!-- ---
+**NOTE**
+
+It works with almost all markdown flavours (the below blank line matters).
+
+--- -->
+
+> Nesse repositório estou compartilhando minhas anotações que faço durante minhas aulas do MBA em Data Science e Analytics pela USP/ESALQ
+
+
+
 A Ciência de Dados é uma área que combina conhecimentos de estatística, matemática, programação e inteligência artificial para analisar grandes volumes de dados e extrair informações úteis. Essas informações ajudam empresas e organizações a tomar decisões mais inteligentes e baseadas em fatos.
 
-Segundo a IBM, a ciência de dados é uma prática que busca resolver problemas complexos e encontrar insights acionáveis para negócios através da análise de dados avançada, a qual combina técnicas de matemática, estatística, programação, inteligência artificial (IA) e aprendizado de máquina.
+Segundo o site da IBM: "A ciência de dados é uma prática que busca resolver problemas complexos e encontrar insights acionáveis para negócios através da análise de dados avançada, a qual combina técnicas de matemática, estatística, programação, inteligência artificial (IA) e aprendizado de máquina."
+*[IBM - O que é ciência de dados? ](https://www.ibm.com/br-pt/topics/data-science)*
 
 ![O que é?](./imagens/oquee.png)
 
@@ -34,20 +46,6 @@ A ciência de dados é utilizada em diversas áreas, como:
 - **Varejo**: Para entender o comportamento do consumidor e otimizar estoques.
 
 - **Transporte**: Para melhorar rotas e prever demandas.
-
-
-<!-- ## Ferramentas Comuns
-Algumas das ferramentas e linguagens de programação mais utilizadas em ciência de dados são:
-
-Python: Linguagem de programação com diversas bibliotecas para análise de dados.
-
-R: Linguagem focada em estatística e visualização de dados.
-
-Pandas: Biblioteca Python para manipulação de dados.
-
-Matplotlib e Seaborn: Bibliotecas Python para criação de gráficos.
-
-Jupyter Notebook: Ambiente interativo para escrever e executar código. -->
 
 A ciência de dados é uma área em crescimento que permite transformar dados brutos em informações valiosas. Com as ferramentas e técnicas adequadas, é possível descobrir insights que podem melhorar processos, produtos e serviços em diversas indústrias.
 
